@@ -1,0 +1,10 @@
+WARNING:6,1733:Unknown property text-decoration-skip-ink
+WARNING:6,62153:Unknown property color-adjust
+WARNING:6,62172:Unknown property print-color-adjust
+WARNING:6,72401:Unknown property isolation
+WARNING:6,85744:Unknown property overflow-anchor
+WARNING:6,93150:Unexpected character(s) "progress-bar-stripes" found
+WARNING:6,110172:Unknown property touch-action
+WARNING:6,114066:Unexpected character(s) "spinner-border" found
+WARNING:6,114623:Unexpected character(s) "spinner-grow" found
+WARNING:6,161540:Unexpected character(s) "a3" found
